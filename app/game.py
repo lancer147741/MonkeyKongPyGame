@@ -23,7 +23,7 @@ background_image = pygame.transform.scale(background_image, window_size)
 # накладываем изображение на поверхность
 screen.blit(background_image, (0, 0))
 
-# делаем видимость обновлениям в коде
+# делаем видимость обновленияm в коде
 pygame.display.flip()
 
 # показываем окно, пока пользователь не нажмет кнопку "Закрыть"
