@@ -18,7 +18,9 @@ hero_image = pygame.image.load("../image/hero.png")
 monkey_image = pygame.image.load("../image/monkey.png")
 ball_image = pygame.image.load("../image/ball.png")
 princess_image = pygame.image.load("../image/princess.png")
-stairs = pygame.image.load("../image/stairs.png")
+stairs_image = pygame.image.load("../image/stairs.png")
+wood_image = pygame.image.load("../image/wood.png")
+
 
 # Задаем фон и подгоняем масштаб под размер окна
 background_image = pygame.transform.scale(background_image, window_size)
