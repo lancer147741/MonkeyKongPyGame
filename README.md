@@ -29,7 +29,7 @@ pip install pygame
 git clone https://github.com/lancer147741/MonkeyKongPyGame
 python game.py
 ```
-## Завершение игры
+## Завершение игры принудительно
 Чтобы выйти из игры, нажмите клавишу "Esc" или закройте окно.
 
 Наслаждайтесь игрой!
